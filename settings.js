@@ -2,11 +2,11 @@
 
 const fs = require('fs')
 const chalk = require('chalk')
-global.owner = ['6281395861695']
-global.ownernomer = "6281395861695"
-global.premium = ['6281395861695']
+global.owner = ['62822522851432']
+global.ownernomer = "62822522851432"
+global.premium = ['62822522851432']
 global.packname = 'Sticker By'
-global.author = 'BOTCAHX'
+global.author = 'ZeEx Md'
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
@@ -33,12 +33,12 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./media/image/tio.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/BOTCAHX'
-global.webmy = 'https://api.botcahx.biz.id'
-global.ghme = 'https://github.com/BOTCAHX'
-global.botname = 'BOTCAHX'
-global.omlen = '© TioXd'
-global.weem = 'BOTCAHX'
+global.mygit = 'https://github.com/RyannAditya'
+global.webmy = 'https://lynk.id/ryann.dev'
+global.ghme = 'https://github.com/RyannAditya'
+global.botname = 'ZeEx Md'
+global.omlen = '© ZeEx Team's'
+global.weem = 'ZeEx Botzx'
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
